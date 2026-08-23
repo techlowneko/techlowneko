@@ -1,6 +1,5 @@
-# techlowNeko GitHub Profile README
 
-# Hi, I'm techlowNeko
+# Hi, I'm TechlowNeko
 
 I build practical software, automation tools, APIs, and experimental systems at the intersection of **AI, agentic infrastructure, finance, and networking**.
 
