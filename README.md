@@ -78,10 +78,6 @@ My professional background is in aircraft electrical systems and technical opera
 
 I'm applying that same systems-oriented mindset to software engineering and networking while building a portfolio of real-world projects along the way.
 
-## Find Me
-
-**Website:** https://preflightstack.com  
-**GitHub:** https://github.com/techlowneko
 
 ---
 
