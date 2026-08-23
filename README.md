@@ -1,5 +1,5 @@
 
-# Hi, I'm TechlowNeko
+# Hi, I'm techlowNeko
 
 I build practical software, automation tools, APIs, and experimental systems at the intersection of **AI, agentic infrastructure, finance, and networking**.
 
