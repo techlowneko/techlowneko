@@ -3,7 +3,7 @@
 
 I build practical software, automation tools, APIs, and experimental systems at the intersection of **AI, agentic infrastructure, finance, and networking**.
 
-My background is a little unconventional: after more than two decades working with complex aircraft electrical systems, I've been expanding deeper into software development, networking, Linux infrastructure, and AI-assisted engineering.
+My background is a little unconventional: after more than two decades working with complex aircraft electrical systems, I've been expanding deeper into software development, networking, and Linux infrastructure.
 
 ## What I'm Building
 
