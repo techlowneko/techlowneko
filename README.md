@@ -55,7 +55,7 @@ Currently operating in **paper-testing and validation mode** while the strategy 
 
 **AI & Automation**
 
-`AI-Assisted Development` `Local LLMs` `Ollama` `Agentic Workflows` `x402`
+`Local LLMs` `Ollama` `Agentic Workflows` `x402`
 
 ## What I'm Exploring
 
