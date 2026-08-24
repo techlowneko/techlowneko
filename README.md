@@ -14,12 +14,10 @@ A growing collection of focused, pay-per-use API services for AI agents and auto
 - **Dependency Preflight**
   Checks exact npm and PyPI dependency versions before installation and returns an actionable ALLOW / REVIEW / BLOCK decision.
 
- [Product](https://preflightstack.com/dependency-preflight/)
 
 - **Random Choice**
   x402-powered uniform and weighted random selection for autonomous workflows.
 
- [Product](https://preflightstack.com/random-choice/)
 ---
 
 ### ORB Trading Lab
