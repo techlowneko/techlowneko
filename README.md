@@ -7,20 +7,19 @@ My background is a little unconventional: after more than two decades working wi
 
 ## What I'm Building
 
-### PreFlight Stack
+### Preflight Stack
 
-A growing collection of lightweight decision and validation services designed for AI agents and autonomous workflows.
+A growing collection of focused, pay-per-use API services for AI agents and autonomous software.
 
-Current work includes:
+- **Dependency Preflight**
+  Checks exact npm and PyPI dependency versions before installation and returns an actionable ALLOW / REVIEW / BLOCK decision.
 
-- **Dependency Preflight**  
-  An x402-powered API that evaluates npm and PyPI dependencies before installation and returns an actionable **allow / review / block** decision.
+ [Product](https://preflightstack.com/dependency-preflight/)
 
-- **Agentic API Services**  
-  Exploring small, focused pay-per-use services designed to give autonomous agents useful answers without requiring human intervention.
+- **Random Choice**
+  x402-powered uniform and weighted random selection for autonomous workflows.
 
-**Website:** https://preflightstack.com
-
+ [Product](https://preflightstack.com/random-choice/)
 ---
 
 ### ORB Trading Lab
