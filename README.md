@@ -1,28 +1,31 @@
 
 # Hi, I'm techlowNeko
 
-I build practical software, automation tools, APIs, and experimental systems at the intersection of **AI, agentic infrastructure, finance, and networking**.
+I build practical software, automation tools, APIs, and experimental systems at the intersection of **AI, agentic infrastructure, finance, and networking**
 
-My background is a little unconventional: after more than two decades working with complex aircraft electrical systems, I've been expanding deeper into software development, networking, and Linux infrastructure.
+My background is a little unconventional: after more than two decades working with complex aircraft electrical systems, I've been expanding deeper into software development, networking, and Linux infrastructure
 
 ## What I'm Building
 
 ### Preflight Stack
 
-A growing collection of focused, pay-per-use API services for AI agents and autonomous software.
+A growing collection of focused, pay-per-use API services for AI agents and autonomous software
 
 - **Dependency Preflight**
-  Checks exact npm and PyPI dependency versions before installation and returns an actionable ALLOW / REVIEW / BLOCK decision.
+  Checks exact npm and PyPI dependency versions before installation and returns an actionable ALLOW / REVIEW / BLOCK decision
 
 
 - **Random Choice**
-  x402-powered uniform and weighted random selection for autonomous workflows.
+  x402-powered uniform and weighted random selection for autonomous workflows
+
+- **Temporary File Relay**
+  Cloud based file relay for autonomous agents and automated workflows
 
 ---
 
 ### ORB Trading Lab
 
-An automated trading research project built around Opening Range Breakout strategies.
+An automated trading research project built around Opening Range Breakout strategies
 
 The system focuses on:
 
@@ -34,7 +37,7 @@ The system focuses on:
 - Risk controls
 - Strategy testing and iteration
 
-Currently operating in **paper-testing and validation mode** while the strategy and execution logic are refined.
+Currently operating in **paper-testing and validation mode** while the strategy and execution logic are refined
 
 ## Technologies & Tools
 
