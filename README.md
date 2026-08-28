@@ -24,7 +24,7 @@ Production service listings:
 
 [ORB Trading Lab](https://github.com/techlowneko/ORB-Trading-Lab) is an automated Opening Range Breakout research and paper-trading system focused on market scanning, rule-based qualification, evaluation, position tracking, risk controls, and strategy testing.
 
-It remains in paper-testing and validation mode. Live brokerage order submission is intentionally disabled.
+It remains in paper-testing and validation mode, don't want to accidentally go broke before I'm done testing! 
 
 ## Skills and tools
 
