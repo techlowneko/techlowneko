@@ -29,7 +29,7 @@ It remains in paper-testing and validation mode, don't want to accidentally go b
 ## Skills and tools
 
 - Python, TypeScript, Node.js, REST APIs, OpenAPI, Git, and GitHub
-- Cloudflare Workers, R2, Linux, Docker, SSH, and self-hosted services
+- Cloudflare Workers, R2, Linux, Docker, and self-hosted services
 - Networking, routing, switching, troubleshooting, and CCNA studies
 - Local LLMs, Ollama, agentic workflows, and x402
 
