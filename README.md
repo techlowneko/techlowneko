@@ -1,84 +1,55 @@
+# techlowNeko | Aviation systems to software, automation, and agentic APIs
 
-# Hi, I'm techlowNeko
+I’m an aviation electrical specialist with more than two decades of experience across aircraft maintenance, technical troubleshooting, operations control, and team leadership. I’m now expanding deeper into networking, software, automation, and development.
 
-I build practical software, automation tools, APIs, and experimental systems at the intersection of **AI, agentic infrastructure, finance, and networking**
+I build practical systems with clear contracts, bounded behavior, useful automation, and interfaces that are easy to inspect.
 
-My background is a little unconventional: after more than two decades working with complex aircraft electrical systems, I've been expanding deeper into software development, networking, and Linux infrastructure
-
-## What I'm Building
+## What I’m building
 
 ### Preflight Stack
 
-A growing collection of focused, pay-per-use API services for AI agents and autonomous software
+A collection of focused, pay-per-use services for AI agents and autonomous software.
 
-- **Dependency Preflight**
-  Checks exact npm and PyPI dependency versions before installation and returns an actionable ALLOW / REVIEW / BLOCK decision
+- [Dependency Preflight](https://preflightstack.com/dependency-preflight/) checks exact npm and PyPI dependency versions and returns an actionable ALLOW, REVIEW, or BLOCK decision.
+- [Random Choice](https://preflightstack.com/random-choice/) provides uniform or weighted selection for agent workflows.
+- [Temporary File Relay](https://preflightstack.com/temporary-file-relay/) explores short-lived artifact handoff with verification, expiry, and bounded reads.
+- [Engineering portfolio](https://preflightstack.com/engineering/) explains the architecture, delivery choices, and skills behind the stack.
 
+Production service listings:
 
-- **Random Choice**
-  x402-powered uniform and weighted random selection for autonomous workflows
-
-- **Temporary File Relay**
-  Cloud based file relay for autonomous agents and automated workflows
-
----
+- [Dependency Preflight on Agentic Market](https://agentic.market/services/api-preflightstack-com)
+- [Random Choice on Agentic Market](https://agentic.market/services/random-preflightstack-com)
+- [Temporary File Relay on Agentic Market](https://agentic.market/services/relay-preflightstack-com)
 
 ### ORB Trading Lab
 
-An automated trading research project built around Opening Range Breakout strategies
+[ORB Trading Lab](https://github.com/techlowneko/ORB-Trading-Lab) is an automated Opening Range Breakout research and paper-trading system focused on market scanning, rule-based qualification, evaluation, position tracking, risk controls, and strategy testing.
 
-The system focuses on:
+It remains in paper-testing and validation mode. Live brokerage order submission is intentionally disabled.
 
-- Market scanning
-- Rule-based trade qualification
-- Automated evaluation
-- Paper trading
-- Position tracking
-- Risk controls
-- Strategy testing and iteration
+## Skills and tools
 
-Currently operating in **paper-testing and validation mode** while the strategy and execution logic are refined
+- Python, TypeScript, Node.js, REST APIs, OpenAPI, Git, and GitHub
+- Cloudflare Workers, R2, Linux, Docker, SSH, and self-hosted services
+- Networking, routing, switching, troubleshooting, and CCNA studies
+- Local LLMs, Ollama, agentic workflows, and x402
 
-## Technologies & Tools
+## What I’m exploring
 
-**Development**
+Autonomous AI agents, agent-to-agent commerce, x402 micropayments, decision APIs, algorithmic trading, local AI infrastructure, self-hosted services, and network automation.
 
-`Python` `TypeScript` `Node.js` `REST APIs` `Git` `GitHub`
+I’m especially interested in small, practical problems where new technology can make something simpler, faster, or more useful.
 
-**Infrastructure**
+## Beyond code
 
-`Linux` `Docker` `SSH` `Self-Hosted Services`
+I enjoy building computers, 3D printing, creative writing, and learning by doing. Current tea favorite: Yunnan Black Treasure.
 
-**Networking**
+## From aircraft to software
 
-`Cisco` `CCNA Studies` `Routing` `Switching` `Network Troubleshooting`
+My professional background is in aircraft electrical systems and technical operations, where reliability, troubleshooting, documentation, and disciplined processes matter. I’m applying that same systems-oriented mindset to software engineering and networking while building a portfolio of real-world projects.
 
-**AI & Automation**
+## Links
 
-`Local LLMs` `Ollama` `Agentic Workflows` `x402`
-
-## What I'm Exploring
-
-I'm especially interested in:
-
-- Autonomous AI agents
-- Agent-to-agent commerce
-- x402 micropayments
-- Decision APIs
-- Algorithmic trading
-- Local AI infrastructure
-- Self-hosted services
-- Network automation
-
-I like building things that are **small, useful, composable, and capable of running autonomously**.
-
-## From Aircraft to Software
-
-My professional background is in aircraft electrical systems and technical operations, where reliability, troubleshooting, documentation, and disciplined processes matter.
-
-I'm applying that same systems-oriented mindset to software engineering and networking while building a portfolio of real-world projects along the way.
-
-
----
-
-*Building useful things, breaking them, figuring out why, and making the next version better.*
+- [Preflight Stack](https://preflightstack.com/)
+- [Engineering work](https://preflightstack.com/engineering/)
+- [All public repositories](https://github.com/techlowneko?tab=repositories)
