@@ -13,7 +13,6 @@ A collection of focused, pay-per-use services for AI agents and autonomous softw
 - [Dependency Preflight](https://preflightstack.com/dependency-preflight/) checks exact npm and PyPI dependency versions and returns an actionable ALLOW, REVIEW, or BLOCK decision.
 - [Random Choice](https://preflightstack.com/random-choice/) provides uniform or weighted selection for agent workflows.
 - [Temporary File Relay](https://preflightstack.com/temporary-file-relay/) explores short-lived artifact handoff with verification, expiry, and bounded reads.
-- [Engineering portfolio](https://preflightstack.com/engineering/) explains the architecture, delivery choices, and skills behind the stack.
 
 Production service listings:
 
@@ -42,7 +41,7 @@ I’m especially interested in small, practical problems where new technology ca
 
 ## Beyond code
 
-I enjoy building computers, 3D printing, creative writing, and learning by doing. Current tea favorite: Yunnan Black Treasure.
+I enjoy building computers, 3D printing, creative writing, and learning by doing. I NEED nature! If I spend too much time away from the forest I feel myself start to slowly die inside. I love watching all the wildlife stroll by my window from turkey to deer and the occasional fox or porcupine. Also, my current favorite tea is Yunnan Black Treasure!
 
 ## From aircraft to software
 
@@ -51,5 +50,4 @@ My professional background is in aircraft electrical systems and technical opera
 ## Links
 
 - [Preflight Stack](https://preflightstack.com/)
-- [Engineering work](https://preflightstack.com/engineering/)
 - [All public repositories](https://github.com/techlowneko?tab=repositories)
